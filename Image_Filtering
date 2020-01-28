@@ -1,0 +1,8 @@
+
+Median filtering:
+Median filtering is good at eliminating salt and pepper noise
+It turns out that it does a pretty good job of preserving edges in an image.
+
+Gaussian filtering:
+Gaussian blurring takes the average of the values around a pixel, after scanning through all pixels in the image, 
+each one ends up as a blend of all the colors around it, and it will end up doing exactly what it’s name says: blur

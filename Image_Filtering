@@ -9,3 +9,7 @@ Gaussian filtering:
 Gaussian blurring takes the average of the values around a pixel, after scanning through all pixels in the image, 
 each one ends up as a blend of all the colors around it, and it will end up doing exactly what it’s name says: blur
 Gaussian filter leaves image fuzzy.
+
+
+Image Sharpening:
+https://northstar-www.dartmouth.edu/doc/idl/html_6.2/Sharpening_an_Image.html

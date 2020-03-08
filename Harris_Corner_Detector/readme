@@ -1,0 +1,4 @@
+Harris Corner Detector:
+Harris Corner Detector is a corner detection operator that is commonly used in computer vision algorithms 
+to extract corners and infer features of an image. 
+It was first introduced by Chris Harris and Mike Stephens in 1988 upon the improvement of Moravec's corner detector.
